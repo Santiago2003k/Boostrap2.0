@@ -1,0 +1,2 @@
+Orden en boostrap y el navbar
+<!-- --> comentar en html
